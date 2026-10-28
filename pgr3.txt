@@ -1,6 +1,10 @@
 GM
+<<<<<<< HEAD
 fgsv  
 g ivurrhg iueg r
 gburbvurt 
 fgiuhf h ugr
 grh kh ujkg
+=======
+New file added
+>>>>>>> a89b2b0 (New data insert)
